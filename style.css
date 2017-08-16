@@ -1,0 +1,66 @@
+body {
+	font-family: 'Lucida Grande', 'Arial', sans-serif;
+	background: #ffcb5b;
+}
+
+.container {
+	margin: 0 auto;
+	width: 900px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	border-bottom: 1px double #3a0208;
+}
+
+a {
+	text-decoration: none;
+	color: #af2432;
+}
+
+a:hover {
+	color: green;
+}
+
+p {
+	line-height: 1;
+}
+
+.lugar {
+	background: #baff60;
+	border: 1px solid black;
+	padding: 5px;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin-bottom: 2em;
+}
+
+.lugar img {
+	float: right;
+	width: 200px;
+	border: 1px solid black;
+}
+
+.clear {
+	clear: both;
+}
+
+.lugares {
+	float: left;
+	width: 600px;
+
+}
+
+.sidebar {
+	background: #429bf4;
+	float: right;
+}
+
+.footer {
+	background: orange;
+	font-size: 16px;
+	text-align: center;
+}
